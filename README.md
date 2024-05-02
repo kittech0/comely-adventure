@@ -1,4 +1,4 @@
-# Comely Adventure
+# [Comely Adventure](https://modrinth.com/project/comely-adventure/)
 > ### `Survive and Adventure in the beauty of the blocky world`
 
 ## About modpack
