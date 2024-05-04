@@ -1,4 +1,4 @@
-# [Comely Adventure](https://modrinth.com/project/comely-adventure/)
+# Comely Adventure
 > ### `Survive and Adventure in the beauty of the blocky world`
 
 ## About modpack
@@ -15,8 +15,13 @@ The Comely Adventure modpack is meant to be pretty difficult modpack, however wi
 - Updated nether with biomes and new demonic creatures.
 - New mobs to raid from chococraft.
 - Cooler weather with winds,
+- New food system
 - And other stuff for builders.
+- they wisper, cant see them move
 
 ## Hardware requirements
 - Ram: +8GB
 - GPU: [Sodium Hardware Compatibility](https://modrinth.com/mod/sodium#hardware-compatibility)
+
+## How to install? 
+To install Comely Adventure, download the [Modrinth App](https://modrinth.com/app). For instructions with other launchers, please see [our documentation](https://docs.modrinth.com/docs/modpacks/playing_modpacks/). 
